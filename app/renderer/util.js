@@ -1,5 +1,4 @@
 import XPath from 'xpath';
-import _ from 'lodash';
 
 /**
  * Get an optimal XPath for a DOMNode
